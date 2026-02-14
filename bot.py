@@ -3,12 +3,13 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 TOKEN = "8504832659:AAFuf5I8rk5HgYZnoUWepjCiRPkhe6bhFsg"
 SITE_URL = "https://mutemug.github.io/Eternal-Valentine/"
-SCENE_1 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene1.jpg"
-SCENE_2 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene2.jpg"
-SCENE_3 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene3.jpg"
-SCENE_4 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene4.jpg"
-SCENE_5 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene5.jpg"
-SCENE_6 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene6.jpg"
+SCENE_1 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene1.png"
+SCENE_2 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene1.png"
+SCENE_3 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene3.png"
+SCENE_4 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene4.png"
+SCENE_5 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene5.png"
+SCENE_6 = "https://raw.githubusercontent.com/mutemug/Eternal-Valentine/main/scene6.png"
+
 
 bot = telebot.TeleBot(TOKEN)
 
